@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohil Chaturvedi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h1 align="center">Hi I'm Mohil👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=5100&color=F714ED&lines=An+Enthusiastic+Frontend+Developer;A+Passionate+Designer;Deep+Compassion+For+Android+Development" alt="Typing SVG">
+</div>
 <img align="right" alt="coding" width="400" src="https://github.com/mp2463/mp2463/assets/103843419/ee260f2b-9ca7-4304-a054-5c9a6369af80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mp2463&label=Profile%20views&color=0e75b6&style=flat" alt="mp2463" /> </p>
