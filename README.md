@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mp2463&label=Profile%20views&color=0e75b6&style=flat" alt="mp2463" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development & Machine Learning**
-
 - 📫 How to reach me **mp2463@srmist.edu.in**
 
 <h3 align="left">Connect with me:</h3>
