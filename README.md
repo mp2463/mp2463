@@ -42,7 +42,7 @@
 <h4>💻 Programming Languages</h4>
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,js,php" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gosu/gosu-original.svg" width="48" height="48"/>
+
 </p>
 
 <h4>📊 Data Analysis</h4>
