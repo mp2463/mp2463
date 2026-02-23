@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Mohil👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=5100&color=F714ED&lines=Artificial+Intelligence;Machine+Learning;Mobile+Application+Developer;Data+Analysis+Enthusiast;Computer+Science+Graduate" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=5100&color=F714ED&lines=Artificial+Intelligence;Machine+Learning;Data+Analysis+Enthusiast;Computer+Science+Graduate" alt="Typing SVG">
 </div>
 
 <!-- Portfolio Badge -->
